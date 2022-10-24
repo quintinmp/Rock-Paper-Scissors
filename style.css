@@ -1,0 +1,16 @@
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: 250px;
+}
+
+button {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+
+}
